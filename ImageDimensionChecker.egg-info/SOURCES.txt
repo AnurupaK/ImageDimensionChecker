@@ -1,0 +1,8 @@
+License.txt
+README.md
+setup.py
+ImageDimensionChecker/__init__.py
+ImageDimensionChecker.egg-info/PKG-INFO
+ImageDimensionChecker.egg-info/SOURCES.txt
+ImageDimensionChecker.egg-info/dependency_links.txt
+ImageDimensionChecker.egg-info/top_level.txt
